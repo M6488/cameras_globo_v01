@@ -4,7 +4,7 @@ export const cameras: Camera[] = [
     {
         id: 1,
         keyword: 'Boa viagem',
-        address: 'rua da aurora',
+        address: 'Avenida Boa viagem',
         url: 'http://localhost:8888/boa_viagem/index.m3u8',
         inDropzone: false
 
@@ -12,13 +12,13 @@ export const cameras: Camera[] = [
     {
         id: 2,
         keyword: 'BR 101',
-        address: 'Avenida norte de brasil',
+        address: 'Br-101',
         url: 'http://localhost:8888/br_101/index.m3u8'
     },
     {
         id: 3,
         keyword: 'Guararapes',
-        address: 'visão da rua guara',
+        address: 'Guararapes',
         url: 'http://localhost:8888/guararapes/index.m3u8'
     },
     {
