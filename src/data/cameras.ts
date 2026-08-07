@@ -24,7 +24,7 @@ export const cameras: Camera[] = [
     {
         id: 4,
         keyword: 'Rua da Aurora',
-        address: 'rua da aurora',
+        address: 'Rua da aurora',
         url: 'http://localhost:8888/rua_aurora/index.m3u8'
     },
     {
@@ -55,6 +55,6 @@ export const cameras: Camera[] = [
         id: 9,
         keyword: 'Caruaru',
         address: 'Torre de Caruaru',
-        url: 'http://localhost:8888/cam9_transcoded_output/index.m3u8'
+        url: 'http://localhost:8888/caruaru/index.m3u8'
     },
 ]
